@@ -1,5 +1,7 @@
 # EscapeRoom
 
+![Design](https://github.com/dianavile/EscapeRoom-Landingpage/blob/main/assets/design/landing/1LP-EscapeRoom.png)
+
 <!-- Illustrations credential Links -->
 
 - [Images](https://undraw.co/illustrations)
